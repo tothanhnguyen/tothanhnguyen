@@ -1,141 +1,163 @@
 <!-- ============================================================= -->
-<!--                        BANNER / HEADER                        -->
+<!--                          HEADER                               -->
 <!-- ============================================================= -->
+
+<a href="https://github.com/tothanhnguyen">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:282A36,45:6E1423,100:FF5555&height=260&section=header&text=Thanh%20Nguyen&fontSize=82&fontColor=F8F8F2&animation=fadeIn&fontAlignY=40&desc=Full-stack%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Desktop%20%E2%80%A2%20Cloud&descAlignY=60&descSize=20&descColor=FF9AA2" alt="header" />
+</a>
 
 <div align="center">
 
 <a href="https://github.com/tothanhnguyen">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Thanh%20Nguyen&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Desktop&descAlignY=58&descSize=20" alt="header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=FF5555&center=true&vCenter=true&width=580&lines=Laravel+%C2%B7+.NET+%C2%B7+JavaScript;Designing+systems%2C+not+just+screens.;AI+Agent+Orchestration+%26+Microservices;Clean+code.+Real+impact." alt="typing" />
 </a>
 
-<!-- Typing animation -->
-<a href="https://github.com/tothanhnguyen">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=Building+products+end-to-end;Laravel+%2B+.NET+%2B+JavaScript;Web+apps+%26+desktop+systems;Clean+code.+Real+impact." alt="Typing SVG" />
-</a>
+<br/><br/>
 
-<br/>
-
-<!-- Social badges -->
-<a href="https://github.com/tothanhnguyen">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:tothanhnguyen2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.facebook.com/anhnguyengiallai/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://github.com/tothanhnguyen">
-  <img src="https://komarev.com/ghpvc/?username=tothanhnguyen&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
+<a href="https://github.com/tothanhnguyen"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:tothanhnguyen2006@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://www.facebook.com/anhnguyengiallai/"><img src="https://img.shields.io/badge/Facebook-161B22?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
+<img src="https://komarev.com/ghpvc/?username=tothanhnguyen&style=flat-square&color=FF5555&label=views" alt="views" />
 
 </div>
+
+<br/>
 
 <!-- ============================================================= -->
 <!--                          ABOUT ME                             -->
 <!-- ============================================================= -->
 
-## About Me
+<table width="100%">
+<tr>
+<td width="56%" valign="top">
 
-```php
-<?php
+### `~/about`
+I am a **Software Engineering student (K2024) at UIT-HCM**, building full-stack products **end-to-end**.
 
-$thanh = [
-    'role'              => 'Full-stack Developer',
-    'location'          => 'Vietnam 🇻🇳',
-    'focus'             => ['Web Apps', 'Desktop Systems', 'Databases'],
-    'mainStack'         => ['PHP / Laravel', 'C# / .NET', 'JavaScript'],
-    'philosophy'        => ['KISS', 'Vibe Coding', 'Minimalism'],
-    'currentlyLearning' => 'AI Agent Orchestration & Microservices Architecture',
-    'funFact'           => 'I orchestrate AI systems by day and play jazz chords by night 🎹'
-];
+I care deeply about **clean architecture**, maintainable code, and a developer experience that scales long after the first commit.
+
+Lately, I'm deep into **AI agent orchestration** and **microservices** — designing resilient systems, not just screens.
+
+> _I orchestrate AI systems by day and play jazz chords by night_ 
+
+</td>
+<td width="44%" valign="top">
+
+### `~/snapshot`
+
+```yaml
+role    : Full-stack Developer
+location: Vietnam 🇻🇳
+focus   : [ Web, Desktop, Databases ]
+stack   : [ PHP/Laravel, C#/.NET, JS ]
+learning: AI Agents · Microservices
+mindset : [ KISS, Vibe Coding, Minimal ]
+ask_me  : Laravel · .NET · Full-stack
 ```
 
-- I build full-stack products **end-to-end** — from Laravel web apps to .NET desktop systems with SQL Server.
-- I care about **clean architecture**, maintainable code, and great developer experience.
-- Always exploring new tech, sharing what I learn, and shipping things that matter.
-- Ask me about **Laravel, .NET, and full-stack web development**.
+</td>
+</tr>
+</table>
 
 <br/>
 
 <!-- ============================================================= -->
-<!--                          TECH STACK                           -->
+<!--                          TOOLBOX                              -->
 <!-- ============================================================= -->
 
-## Tech Stack
+### `~/toolbox`
 
-<div align="center">
-
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & DevOps
-
-**CI/CD & Observability**<br/>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/C%23-161B22?style=flat-square&logo=csharp&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=F89820" />
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" />
+</td>
+</tr>
+<tr>
+<td><b>Frameworks</b></td>
+<td>
+<img src="https://img.shields.io/badge/Laravel-161B22?style=flat-square&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/.NET-161B22?style=flat-square&logo=dotnet&logoColor=512BD4" />
+<img src="https://img.shields.io/badge/Blade-161B22?style=flat-square&logo=laravel&logoColor=F05340" />
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=7952B3" />
+</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/SQL_Server-161B22?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
+<img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" />
+</td>
+</tr>
+<tr>
+<td><b>DevOps</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Jenkins-161B22?style=flat-square&logo=jenkins&logoColor=D24939" />
+<img src="https://img.shields.io/badge/Prometheus-161B22?style=flat-square&logo=prometheus&logoColor=E6522C" />
+<img src="https://img.shields.io/badge/Grafana-161B22?style=flat-square&logo=grafana&logoColor=F46800" />
+<img src="https://img.shields.io/badge/RabbitMQ-161B22?style=flat-square&logo=rabbitmq&logoColor=FF6600" />
+</td>
+</tr>
+<tr>
+<td><b>Platform</b></td>
+<td>
+<img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/Ubuntu-161B22?style=flat-square&logo=ubuntu&logoColor=E95420" />
+<img src="https://img.shields.io/badge/Shell-161B22?style=flat-square&logo=gnubash&logoColor=4EAA25" />
+<img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" />
+</td>
+</tr>
+<tr>
+<td><b>Workbench</b></td>
+<td>
+<img src="https://img.shields.io/badge/Visual_Studio-161B22?style=flat-square&logo=visualstudio&logoColor=5C2D91" />
+<img src="https://img.shields.io/badge/IntelliJ-161B22?style=flat-square&logo=intellijidea&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=0078D4" />
+<img src="https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/LaTeX-161B22?style=flat-square&logo=latex&logoColor=47A141" />
+</td>
+</tr>
+</table>
 
 <br/>
-
-**Version Control**<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<br/>
-
-**OS & Terminal**<br/>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-<br/>
-
-**IDE & Utilities**<br/>
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-
-</div>
 
 <!-- ============================================================= -->
 <!--                      FEATURED PROJECTS                        -->
 <!-- ============================================================= -->
 
-## Featured Projects
+### `~/work`  ·  <sup>🤝 = collaboration</sup>
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/Ncyntrq/ChatServerMicroservices">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ncyntrq&repo=ChatServerMicroservices&hide_border=true&bg_color=00000000&title_color=FF5555&icon_color=BD93F9&text_color=6272A4&description_lines_count=2" alt="ChatServerMicroservices" />
+</a>
+<a href="https://github.com/tothanhnguyen/SE104_SportFieldManagement">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tothanhnguyen&repo=SE104_SportFieldManagement&hide_border=true&bg_color=00000000&title_color=FF5555&icon_color=BD93F9&text_color=6272A4&description_lines_count=2" alt="SE104_SportFieldManagement" />
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/tothanhnguyen/Mow-Studio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tothanhnguyen&repo=Mow-Studio&hide_border=true&bg_color=00000000&title_color=FF5555&icon_color=BD93F9&text_color=6272A4&description_lines_count=2" alt="Mow-Studio" />
+</a>
+<a href="https://github.com/hoangnguyen1007/Tournament-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangnguyen1007&repo=Tournament-Tracker&hide_border=true&bg_color=00000000&title_color=FF5555&icon_color=BD93F9&text_color=6272A4&description_lines_count=2" alt="Tournament-Tracker" />
+</a>
+</p>
 
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| **[ChatServerMicroservices](https://github.com/Ncyntrq/ChatServerMicroservices)** | Real-time chat server built on a microservices architecture | `Java` `Docker` |
-| **[SE104_SportFieldManagement](https://github.com/tothanhnguyen/SE104_SportFieldManagement)** | Sport field booking & management system  | `C#` `.NET` `SQL Server` |
-| **[Mow-Studio](https://github.com/tothanhnguyen/Mow-Studio)** | A professional online music production platform | `Laravel` `PHP` `Blade` `Docker` |
-| **[Tournament-Tracker](https://github.com/hoangnguyen1007/Tournament-Tracker)** | Tournament & competition management software | `C#` `.NET` `SQL Server` |
-
-</div>
+<p align="center">
+  <sup>💬 ChatServerMicroservices 🤝 &nbsp;•&nbsp; 🏟️ SportFieldManagement &nbsp;•&nbsp; 🎵 Mow-Studio &nbsp;•&nbsp; 🏆 Tournament-Tracker 🤝</sup>
+</p>
 
 <br/>
 
@@ -143,34 +165,20 @@ $thanh = [
 <!--                       GITHUB STATS                            -->
 <!-- ============================================================= -->
 
-## GitHub Stats
+### `~/stats`
 
-<div align="center">
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tothanhnguyen&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF5555&icon_color=BD93F9&text_color=6272A4&include_all_commits=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothanhnguyen&layout=compact&hide_border=true&bg_color=00000000&title_color=FF5555&text_color=6272A4&langs_count=8" alt="top langs" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tothanhnguyen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothanhnguyen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=tothanhnguyen&hide_border=true&background=00000000&ring=FF5555&fire=BD93F9&currStreakLabel=FF5555&sideLabels=6272A4&dates=6272A4&sideNums=FF5555&currStreakNum=FF5555&dayLabels=6272A4&stroke=6272A4" alt="streak" />
+</p>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tothanhnguyen&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<!-- ============================================================= -->
-<!--                       ACTIVITY GRAPH                          -->
-<!-- ============================================================= -->
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tothanhnguyen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true" alt="Activity Graph" />
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tothanhnguyen&hide_border=true&bg_color=00000000&color=FF5555&line=BD93F9&point=ffffff&area=true&area_color=FF5555" alt="activity" />
+</p>
 
 <br/>
 
@@ -178,34 +186,12 @@ $thanh = [
 <!--                           QUOTE                               -->
 <!-- ============================================================= -->
 
-## Quote of the Day
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=2&width=80%&section=header" alt="divider" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&border_color=FF5555&bg_color=0D1117" alt="quote" />
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&qcolor=ffffff&author_color=667eea" alt="Random Dev Quote" />
-
-
-</div>
-
-
-<!-- ============================================================= -->
-<!--                          FOOTER                               -->
-<!-- ============================================================= -->
-
-<div align="center">
-
-### Let's Connect & Build Something Great
-
-<a href="mailto:tothanhnguyen2006@gmail.com">
-  <img src="https://img.shields.io/badge/Reach_out-667eea?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" />
-</a>
-
-<i>From <a href="https://github.com/tothanhnguyen">tothanhnguyen</a> — Thanks for stopping by!</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" alt="footer" />
+<sub><code>$ whoami</code> → built end-to-end by <a href="https://github.com/tothanhnguyen">@tothanhnguyen</a> · thanks for stopping by </sub>
 
 </div>
