@@ -17,7 +17,7 @@
 <a href="https://github.com/tothanhnguyen"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:tothanhnguyen2006@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 <a href="https://www.facebook.com/anhnguyengiallai/"><img src="https://img.shields.io/badge/Facebook-161B22?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
-<img src="https://komarev.com/ghpvc/?username=tothanhnguyen&style=flat-square&color=FF5555&label=views" alt="views" />
+
 
 </div>
 
