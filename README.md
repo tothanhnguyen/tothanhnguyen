@@ -66,8 +66,7 @@ ask_me  : Laravel · .NET · Full-stack
 <!-- ============================================================= -->
 
 ### `~/toolbox`
-
-<p align="center">
+<div align="center">
 <table>
 <tr>
 <td><b>Languages</b></td>
@@ -130,7 +129,7 @@ ask_me  : Laravel · .NET · Full-stack
 </td>
 </tr>
 </table>
-</p>
+</div>
 <br/>
 
 <!-- ============================================================= -->
