@@ -32,7 +32,7 @@
 <td width="56%" valign="top">
 
 ### `~/about`
-I am a **Software Engineering student (K2024) at UIT-HCM**, building full-stack products **end-to-end**.
+I am a **Software Engineering student (K19-2024) at University of Information Technology, Vietnam National University - Ho Chi Minh City**, building full-stack products **end-to-end**.
 
 I care deeply about **clean architecture**, maintainable code, and a developer experience that scales long after the first commit.
 
