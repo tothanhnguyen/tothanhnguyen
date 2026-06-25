@@ -156,7 +156,7 @@ ask_me  : Laravel · .NET · Full-stack
 </p>
 
 <p align="center">
-  <sup>💬 ChatServerMicroservices 🤝 &nbsp;•&nbsp; 🏟️ SportFieldManagement &nbsp;•&nbsp; 🎵 Mow-Studio &nbsp;•&nbsp; 🏆 Tournament-Tracker 🤝</sup>
+  <sup>ChatServerMicroservices &nbsp;•&nbsp; SportFieldManagement &nbsp;•&nbsp; Mow-Studio &nbsp;•&nbsp; Tournament-Tracker</sup>
 </p>
 
 <br/>
