@@ -10,7 +10,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/tothanhnguyen">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=Building+products+end-to-end+%F0%9F%9A%80;Laravel+%2B+.NET+%2B+JavaScript;Web+apps+%26+desktop+systems;Clean+code.+Real+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=Building+products+end-to-end;Laravel+%2B+.NET+%2B+JavaScript;Web+apps+%26+desktop+systems;Clean+code.+Real+impact." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,6 +22,9 @@
 <a href="mailto:tothanhnguyen2006@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="https://www.facebook.com/anhnguyengiallai/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 <a href="https://github.com/tothanhnguyen">
   <img src="https://komarev.com/ghpvc/?username=tothanhnguyen&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" alt="Profile views" />
 </a>
@@ -32,7 +35,7 @@
 <!--                          ABOUT ME                             -->
 <!-- ============================================================= -->
 
-## 👋 About Me
+## About Me
 
 ```php
 <?php
@@ -48,10 +51,10 @@ $thanh = [
 ];
 ```
 
-- 🚀 I build full-stack products **end-to-end** — from Laravel web apps to .NET desktop systems with SQL Server.
-- 🧩 I care about **clean architecture**, maintainable code, and great developer experience.
-- 🌱 Always exploring new tech, sharing what I learn, and shipping things that matter.
-- 💬 Ask me about **Laravel, .NET, and full-stack web development**.
+- I build full-stack products **end-to-end** — from Laravel web apps to .NET desktop systems with SQL Server.
+- I care about **clean architecture**, maintainable code, and great developer experience.
+- Always exploring new tech, sharing what I learn, and shipping things that matter.
+- Ask me about **Laravel, .NET, and full-stack web development**.
 
 <br/>
 
@@ -59,7 +62,7 @@ $thanh = [
 <!--                          TECH STACK                           -->
 <!-- ============================================================= -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -83,7 +86,7 @@ $thanh = [
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠 Tools & DevOps
+### Tools & DevOps
 
 **CI/CD & Observability**<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -121,16 +124,16 @@ $thanh = [
 <!--                      FEATURED PROJECTS                        -->
 <!-- ============================================================= -->
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| 💬 **[ChatServerMicroservices](https://github.com/Ncyntrq/ChatServerMicroservices)** 🤝 | Real-time chat server built on a microservices architecture | `Java` `Docker` |
-| 🏟️ **[SE104_SportFieldManagement](https://github.com/tothanhnguyen/SE104_SportFieldManagement)** | Sport field booking & management system · ⭐2 | `C#` `.NET` `SQL Server` |
-| 🎵 **[Mow-Studio](https://github.com/tothanhnguyen/Mow-Studio)** | A professional online music production platform | `Laravel` `PHP` `Blade` `Docker` |
-| 🏆 **[Tournament-Tracker](https://github.com/hoangnguyen1007/Tournament-Tracker)** 🤝 | Tournament & competition management software · ⭐3 | `C#` `.NET` `SQL Server` |
+| **[ChatServerMicroservices](https://github.com/Ncyntrq/ChatServerMicroservices)** | Real-time chat server built on a microservices architecture | `Java` `Docker` |
+| **[SE104_SportFieldManagement](https://github.com/tothanhnguyen/SE104_SportFieldManagement)** | Sport field booking & management system  | `C#` `.NET` `SQL Server` |
+| **[Mow-Studio](https://github.com/tothanhnguyen/Mow-Studio)** | A professional online music production platform | `Laravel` `PHP` `Blade` `Docker` |
+| **[Tournament-Tracker](https://github.com/hoangnguyen1007/Tournament-Tracker)** | Tournament & competition management software | `C#` `.NET` `SQL Server` |
 
 </div>
 
@@ -140,7 +143,7 @@ $thanh = [
 <!--                       GITHUB STATS                            -->
 <!-- ============================================================= -->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -161,7 +164,7 @@ $thanh = [
 <!--                       ACTIVITY GRAPH                          -->
 <!-- ============================================================= -->
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -175,7 +178,7 @@ $thanh = [
 <!--                           QUOTE                               -->
 <!-- ============================================================= -->
 
-## 💭 Quote of the Day
+## Quote of the Day
 
 <div align="center">
 
@@ -185,13 +188,9 @@ $thanh = [
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&qcolor=ffffff&author_color=667eea" alt="Random Dev Quote" />
 
-<br/>
-
-<sub>✨ <i>"First, solve the problem. Then, write the code."</i> — John Johnson ✨</sub>
 
 </div>
 
-<br/>
 
 <!-- ============================================================= -->
 <!--                          FOOTER                               -->
@@ -199,15 +198,13 @@ $thanh = [
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Something Great
+### Let's Connect & Build Something Great
 
 <a href="mailto:tothanhnguyen2006@gmail.com">
   <img src="https://img.shields.io/badge/Reach_out-667eea?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" />
 </a>
 
-<br/><br/>
-
-<i>⭐️ From <a href="https://github.com/tothanhnguyen">tothanhnguyen</a> — Thanks for stopping by!</i>
+<i>From <a href="https://github.com/tothanhnguyen">tothanhnguyen</a> — Thanks for stopping by!</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" alt="footer" />
 
