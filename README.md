@@ -33,7 +33,7 @@ Chào mừng đến với không gian GitHub của mình! Trọng tâm phát tri
 ## 📊 Chỉ số GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhnguyen313&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=333333&icon_color=000000" alt="Thành Nguyên's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tothanhnguyen&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=333333&icon_color=000000" alt="Thành Nguyên's GitHub Stats" />
 </p>
 
 ---
