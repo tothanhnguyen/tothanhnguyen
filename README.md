@@ -136,7 +136,7 @@ ask_me  : Laravel · .NET · Full-stack
 <!--                      FEATURED PROJECTS                        -->
 <!-- ============================================================= -->
 
-### `~/work`  ·  <sup>🤝 = collaboration</sup>
+### `~/work`  
 
 <p align="center">
 <a href="https://github.com/Ncyntrq/ChatServerMicroservices">
