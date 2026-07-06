@@ -46,13 +46,11 @@ Lately, I'm deep into **AI agent orchestration** and **microservices** — desig
 ### `~/snapshot`
 
 ```yaml
-role    : Full-stack Developer
-location: Vietnam 🇻🇳
-focus   : [ Web, Desktop, Databases ]
-stack   : [ PHP/Laravel, C#/.NET, JS ]
-learning: AI Agents · Microservices
-mindset : [ KISS, Vibe Coding, Minimal ]
-ask_me  : Laravel · .NET · Full-stack
+role    : Full-stack Developer & AI Agent Orchestrator
+location: Vietnam
+focus   : [ Web Systems, Desktop Applications ]
+stack   : [ Java, C#/.NET, JavaScript ]
+mindsetz: Minimal — Clean architecture, zero clutter
 ```
 
 </td>
