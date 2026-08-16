@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 116 40" role="img" aria-label="GITHUB">
+  <style>.mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace; }</style>
+  <path d="M0.5 0.5 H106.5 L115.5 9.5 V39.5 H9.5 L0.5 30.5 Z" fill="#0B0E13" stroke="#26333C"/>
+  <path d="M0 7 V0 H7" stroke="#FCEE0A" stroke-width="2" fill="none"/>
+  <text class="mono" x="16" y="25" font-size="12" fill="#FCEE0A">▸</text>
+  <text class="mono" x="32" y="25" font-size="12" letter-spacing="2" fill="#EAF6F9">GITHUB</text>
+  <rect x="80" y="37" width="26" height="2" fill="#00F0FF" opacity=".8"/>
+</svg>

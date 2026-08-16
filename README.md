@@ -5,13 +5,10 @@
 <img src="assets/hero.svg" alt="Thanh Nguyen — software engineer" width="100%">
 
 <p align="center">
-  <a href="https://github.com/tothanhnguyen"><samp>GITHUB</samp></a>
-  &nbsp;&nbsp;<samp>//</samp>&nbsp;&nbsp;
-  <a href="mailto:tothanhnguyen2006@gmail.com"><samp>EMAIL</samp></a>
-  &nbsp;&nbsp;<samp>//</samp>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/anhnguyengiallai/"><samp>FACEBOOK</samp></a>
-  &nbsp;&nbsp;<samp>//</samp>&nbsp;&nbsp;
-  <a href="https://mow-studio.vercel.app/"><samp>LIVE&nbsp;WORK&nbsp;↗</samp></a>
+  <a href="https://github.com/tothanhnguyen"><img src="assets/btn-github.svg" height="40" alt="GitHub"></a>&nbsp;
+  <a href="mailto:tothanhnguyen2006@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>&nbsp;
+  <a href="https://www.facebook.com/anhnguyengiallai/"><img src="assets/btn-facebook.svg" height="40" alt="Facebook"></a>&nbsp;
+  <a href="https://mow-studio.vercel.app/"><img src="assets/btn-live-work.svg" height="40" alt="Live Work"></a>
 </p>
 
 <br>
@@ -41,10 +38,11 @@ lately deep into **AI agent orchestration** and **microservices**.
   </a>
 </p>
 
-<sub><samp>MORE —</samp>
-<a href="https://github.com/tothanhnguyen/SE104_SportFieldManagement">SportFieldManagement</a> ·
-<a href="https://github.com/tothanhnguyen/Mow-Studio">Mow-Studio</a> ·
-<a href="https://github.com/hoangnguyen1007/Tournament-Tracker">Tournament-Tracker</a></sub>
+<p>
+  <a href="https://github.com/tothanhnguyen/SE104_SportFieldManagement"><img src="assets/chip-sportfield.svg" height="32" alt="SportFieldManagement"></a>&nbsp;
+  <a href="https://github.com/tothanhnguyen/Mow-Studio"><img src="assets/chip-mow-studio.svg" height="32" alt="Mow-Studio"></a>&nbsp;
+  <a href="https://github.com/hoangnguyen1007/Tournament-Tracker"><img src="assets/chip-tournament.svg" height="32" alt="Tournament-Tracker"></a>
+</p>
 
 <br><br>
 
