@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 344" role="img" aria-label="Tech stack">
+  <style>
+    .mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace; }
+    .row { opacity: 0; animation: fade .6s ease forwards; }
+    .r1 { animation-delay: .15s } .r2 { animation-delay: .25s } .r3 { animation-delay: .35s }
+    .r4 { animation-delay: .45s } .r5 { animation-delay: .55s } .r6 { animation-delay: .65s }
+    @keyframes fade { to { opacity: 1 } }
+    .dot { animation: blink 1.6s steps(2, start) infinite; }
+    @keyframes blink { 50% { opacity: .15 } }
+    .scan { animation: scan 7s linear infinite; }
+    @keyframes scan { from { transform: translateY(0) } to { transform: translateY(232px) } }
+  </style>
+  <defs>
+    <pattern id="hz" width="8" height="8" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <rect width="4" height="8" fill="#FCEE0A"/>
+    </pattern>
+  </defs>
+
+  <!-- chamfered panel -->
+  <path d="M0.5 0.5 H961.5 L979.5 18.5 V343.5 H18.5 L0.5 325.5 Z" fill="#0B0E13" stroke="#26333C"/>
+  <rect x="1" y="1" width="90" height="4" fill="url(#hz)" opacity=".9"/>
+  <rect x="840" y="1" width="70" height="2" fill="#FF003C"/>
+
+  <!-- header -->
+  <circle class="dot" cx="40" cy="39" r="4" fill="#FCEE0A"/>
+  <text class="mono" x="54" y="44" font-size="13" font-weight="600" letter-spacing="2" fill="#FCEE0A">STACK.SYS</text>
+  <text class="mono" x="152" y="44" font-size="12" letter-spacing="1" fill="#6B7A85">— CYBERWARE INSTALLED [6/6]</text>
+  <text class="mono" x="940" y="44" font-size="11" letter-spacing="1" fill="#6B7A85" text-anchor="end">BUILD 2077.NC</text>
+  <line x1="24" y1="62" x2="956" y2="62" stroke="#26333C"/>
+
+  <!-- scanline -->
+  <rect class="scan" x="1" y="66" width="978" height="2" fill="#00F0FF" opacity=".07"/>
+
+  <!-- rows -->
+  <g class="row r1">
+    <text class="mono" x="40" y="96" font-size="12" letter-spacing="2" fill="#FCEE0A">01</text>
+    <text class="mono" x="68" y="96" font-size="12" font-weight="600" letter-spacing="2" fill="#5EF6FF">LANGUAGES</text>
+    <text class="mono" x="248" y="96" font-size="13" fill="#C9DBE0">Java · C# · PHP · JavaScript · TypeScript · HTML/CSS · SQL</text>
+    <text class="mono" x="940" y="96" font-size="10" letter-spacing="1" fill="#3D4A54" text-anchor="end">MOD-01</text>
+  </g>
+  <g class="row r2">
+    <text class="mono" x="40" y="134" font-size="12" letter-spacing="2" fill="#FCEE0A">02</text>
+    <text class="mono" x="68" y="134" font-size="12" font-weight="600" letter-spacing="2" fill="#5EF6FF">FRAMEWORKS</text>
+    <text class="mono" x="248" y="134" font-size="13" fill="#C9DBE0">Laravel · Blade · .NET · Node.js · Express · Bootstrap</text>
+    <text class="mono" x="940" y="134" font-size="10" letter-spacing="1" fill="#3D4A54" text-anchor="end">MOD-02</text>
+  </g>
+  <g class="row r3">
+    <text class="mono" x="40" y="172" font-size="12" letter-spacing="2" fill="#FCEE0A">03</text>
+    <text class="mono" x="68" y="172" font-size="12" font-weight="600" letter-spacing="2" fill="#5EF6FF">DATABASES</text>
+    <text class="mono" x="248" y="172" font-size="13" fill="#C9DBE0">SQL Server · MySQL</text>
+    <text class="mono" x="940" y="172" font-size="10" letter-spacing="1" fill="#3D4A54" text-anchor="end">MOD-03</text>
+  </g>
+  <g class="row r4">
+    <text class="mono" x="40" y="210" font-size="12" letter-spacing="2" fill="#FCEE0A">04</text>
+    <text class="mono" x="68" y="210" font-size="12" font-weight="600" letter-spacing="2" fill="#5EF6FF">DEVOPS</text>
+    <text class="mono" x="248" y="210" font-size="13" fill="#C9DBE0">Docker · Jenkins · RabbitMQ · Prometheus · Grafana · CI/CD</text>
+    <text class="mono" x="940" y="210" font-size="10" letter-spacing="1" fill="#3D4A54" text-anchor="end">MOD-04</text>
+  </g>
+  <g class="row r5">
+    <text class="mono" x="40" y="248" font-size="12" letter-spacing="2" fill="#FCEE0A">05</text>
+    <text class="mono" x="68" y="248" font-size="12" font-weight="600" letter-spacing="2" fill="#5EF6FF">PLATFORMS</text>
+    <text class="mono" x="248" y="248" font-size="13" fill="#C9DBE0">Linux · Ubuntu · Shell/Bash · Git · GitHub Actions</text>
+    <text class="mono" x="940" y="248" font-size="10" letter-spacing="1" fill="#3D4A54" text-anchor="end">MOD-05</text>
+  </g>
+  <g class="row r6">
+    <text class="mono" x="40" y="286" font-size="12" letter-spacing="2" fill="#FCEE0A">06</text>
+    <text class="mono" x="68" y="286" font-size="12" font-weight="600" letter-spacing="2" fill="#5EF6FF">TOOLS</text>
+    <text class="mono" x="248" y="286" font-size="13" fill="#C9DBE0">Visual Studio · IntelliJ · VS Code · Postman · Figma · LaTeX</text>
+    <text class="mono" x="940" y="286" font-size="10" letter-spacing="1" fill="#3D4A54" text-anchor="end">MOD-06</text>
+  </g>
+
+  <!-- footer -->
+  <line x1="24" y1="306" x2="956" y2="306" stroke="#26333C"/>
+  <text class="mono" x="40" y="326" font-size="10" letter-spacing="2" fill="#6B7A85">// NO FLATLINES DETECTED</text>
+  <text class="mono" x="940" y="326" font-size="10" letter-spacing="2" fill="#6B7A85" text-anchor="end">NIGHT CITY ⇌ HCMC</text>
+</svg>

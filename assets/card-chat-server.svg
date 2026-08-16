@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 150" role="img" aria-label="ChatServerMicroservices">
+  <style>
+    .sans { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace; }
+    .fade { opacity: 0; animation: fade .8s .3s ease forwards; }
+    @keyframes fade { to { opacity: 1 } }
+    .blink { animation: blink 1.6s steps(2, start) infinite; }
+    @keyframes blink { 50% { opacity: .2 } }
+  </style>
+  <defs>
+    <pattern id="hz2" width="8" height="8" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <rect width="4" height="8" fill="#FCEE0A"/>
+    </pattern>
+  </defs>
+  <path d="M0.5 0.5 H467.5 L479.5 12.5 V149.5 H12.5 L0.5 137.5 Z" fill="#0B0E13" stroke="#26333C"/>
+  <rect x="1" y="1" width="70" height="4" fill="url(#hz2)" opacity=".9"/>
+  <rect x="400" y="1" width="60" height="2" fill="#FF003C"/>
+  <g class="fade">
+    <text class="mono" x="26" y="38" font-size="12" letter-spacing="2" fill="#FCEE0A">02</text>
+    <text class="mono" x="52" y="38" font-size="10" letter-spacing="2" fill="#3D4A54">// NET_DAEMON</text>
+    <text class="sans" x="26" y="70" font-size="21" font-weight="600" fill="#EAF6F9">ChatServerMicroservices</text>
+    <text class="sans" x="26" y="96" font-size="13" fill="#6B7A85">Realtime chat backend — Java microservices with RabbitMQ.</text>
+    <text class="mono" x="26" y="127" font-size="12" fill="#5EF6FF">Java · RabbitMQ · Docker</text>
+    <circle class="blink" cx="384" cy="123" r="3" fill="#00F0FF"/>
+    <text class="mono" x="454" y="127" font-size="12" font-weight="600" letter-spacing="1" fill="#FCEE0A" text-anchor="end">SOURCE ↗</text>
+  </g>
+</svg>
