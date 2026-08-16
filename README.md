@@ -8,7 +8,6 @@
   <a href="https://github.com/tothanhnguyen"><img src="assets/btn-github.svg" height="40" alt="GitHub"></a>&nbsp;
   <a href="mailto:tothanhnguyen2006@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>&nbsp;
   <a href="https://www.facebook.com/anhnguyengiallai/"><img src="assets/btn-facebook.svg" height="40" alt="Facebook"></a>&nbsp;
-  <a href="https://mow-studio.vercel.app/"><img src="assets/btn-live-work.svg" height="40" alt="Live Work"></a>
 </p>
 
 <br>
