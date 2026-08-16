@@ -29,13 +29,13 @@
 
   <g class="fade f1">
     <text class="mono" x="40" y="100" font-size="11" letter-spacing="2" fill="#6B7A85">CONTRIBUTIONS / YR</text>
-    <text class="mono" x="40" y="134" font-size="30" font-weight="700" fill="#FCEE0A">349</text>
+    <text class="mono" x="40" y="134" font-size="30" font-weight="700" fill="#FCEE0A">354</text>
     <text class="mono" x="280" y="100" font-size="11" letter-spacing="2" fill="#6B7A85">CURRENT STREAK</text>
-    <text class="mono" x="280" y="134" font-size="30" font-weight="700" fill="#EAF6F9">1d</text>
+    <text class="mono" x="280" y="134" font-size="30" font-weight="700" fill="#EAF6F9">2d</text>
     <text class="mono" x="520" y="100" font-size="11" letter-spacing="2" fill="#6B7A85">LONGEST STREAK</text>
     <text class="mono" x="520" y="134" font-size="30" font-weight="700" fill="#EAF6F9">4d</text>
     <text class="mono" x="760" y="100" font-size="11" letter-spacing="2" fill="#6B7A85">ACTIVE DAYS</text>
-    <text class="mono" x="760" y="134" font-size="30" font-weight="700" fill="#EAF6F9">62</text>
+    <text class="mono" x="760" y="134" font-size="30" font-weight="700" fill="#EAF6F9">63</text>
   </g>
   <line x1="24" y1="152" x2="956" y2="152" stroke="#26333C"/>
 
@@ -403,7 +403,7 @@
     <rect x="856" y="234" width="13" height="13" rx="2" fill="#0B3B46"/>
     <rect x="856" y="250" width="13" height="13" rx="2" fill="#101820"/>
     <rect x="856" y="266" width="13" height="13" rx="2" fill="#0B3B46"/>
-    <rect x="872" y="170" width="13" height="13" rx="2" fill="#101820"/>
+    <rect x="872" y="170" width="13" height="13" rx="2" fill="#0B3B46"/>
   </g>
 
   <line x1="24" y1="306" x2="956" y2="306" stroke="#26333C"/>
