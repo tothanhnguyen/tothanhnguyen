@@ -22,25 +22,24 @@
   <circle class="dot" cx="40" cy="39" r="4" fill="#FCEE0A"/>
   <text class="mono" x="54" y="44" font-size="13" font-weight="600" letter-spacing="2" fill="#FCEE0A">ACTIVITY.SYS</text>
   <text class="mono" x="178" y="44" font-size="12" letter-spacing="1" fill="#6B7A85">— NET TELEMETRY · 52W</text>
-  <text class="mono" x="940" y="44" font-size="11" letter-spacing="1" fill="#6B7A85" text-anchor="end">SYNC 2026-08-22</text>
+  <text class="mono" x="940" y="44" font-size="11" letter-spacing="1" fill="#6B7A85" text-anchor="end">SYNC 2026-08-23</text>
   <line x1="24" y1="62" x2="956" y2="62" stroke="#26333C"/>
 
   <rect class="scan" x="1" y="66" width="978" height="2" fill="#00F0FF" opacity=".07"/>
 
   <g class="fade f1">
     <text class="mono" x="40" y="100" font-size="11" letter-spacing="2" fill="#6B7A85">CONTRIBUTIONS / YR</text>
-    <text class="mono" x="40" y="134" font-size="30" font-weight="700" fill="#FCEE0A">355</text>
+    <text class="mono" x="40" y="134" font-size="30" font-weight="700" fill="#FCEE0A">358</text>
     <text class="mono" x="280" y="100" font-size="11" letter-spacing="2" fill="#6B7A85">CURRENT STREAK</text>
-    <text class="mono" x="280" y="134" font-size="30" font-weight="700" fill="#EAF6F9">0d</text>
+    <text class="mono" x="280" y="134" font-size="30" font-weight="700" fill="#EAF6F9">1d</text>
     <text class="mono" x="520" y="100" font-size="11" letter-spacing="2" fill="#6B7A85">LONGEST STREAK</text>
     <text class="mono" x="520" y="134" font-size="30" font-weight="700" fill="#EAF6F9">4d</text>
     <text class="mono" x="760" y="100" font-size="11" letter-spacing="2" fill="#6B7A85">ACTIVE DAYS</text>
-    <text class="mono" x="760" y="134" font-size="30" font-weight="700" fill="#EAF6F9">64</text>
+    <text class="mono" x="760" y="134" font-size="30" font-weight="700" fill="#EAF6F9">65</text>
   </g>
   <line x1="24" y1="152" x2="956" y2="152" stroke="#26333C"/>
 
   <g class="fade f2">
-    <rect x="40" y="170" width="13" height="13" rx="2" fill="#101820"/>
     <rect x="40" y="186" width="13" height="13" rx="2" fill="#101820"/>
     <rect x="40" y="202" width="13" height="13" rx="2" fill="#101820"/>
     <rect x="40" y="218" width="13" height="13" rx="2" fill="#101820"/>
@@ -404,6 +403,7 @@
     <rect x="856" y="234" width="13" height="13" rx="2" fill="#0B3B46"/>
     <rect x="856" y="250" width="13" height="13" rx="2" fill="#101820"/>
     <rect x="856" y="266" width="13" height="13" rx="2" fill="#101820"/>
+    <rect x="872" y="170" width="13" height="13" rx="2" fill="#0B3B46"/>
   </g>
 
   <line x1="24" y1="306" x2="956" y2="306" stroke="#26333C"/>
